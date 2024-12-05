@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Destiny2Wishlist/1.0.0": {
+        "runtime": {
+          "Destiny2Wishlist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Destiny2Wishlist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\bin\Debug\net8.0\Destiny2Wishlist.exe
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\bin\Debug\net8.0\Destiny2Wishlist.deps.json
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\bin\Debug\net8.0\Destiny2Wishlist.runtimeconfig.json
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\bin\Debug\net8.0\Destiny2Wishlist.dll
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\bin\Debug\net8.0\Destiny2Wishlist.pdb
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\Destiny2Wishlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\Destiny2Wishlist.AssemblyInfoInputs.cache
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\Destiny2Wishlist.AssemblyInfo.cs
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\Destiny2Wishlist.csproj.CoreCompileInputs.cache
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\Destiny2Wishlist.sourcelink.json
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\Destiny2Wishlist.dll
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\refint\Destiny2Wishlist.dll
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\Destiny2Wishlist.pdb
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\Destiny2Wishlist.genruntimeconfig.cache
+C:\Users\BelaM\OneDrive\Desktop\Life\Destiny2\Destiny2Wishlist\obj\Debug\net8.0\ref\Destiny2Wishlist.dll
