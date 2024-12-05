@@ -1,5 +1,5 @@
-Page 1 Finished
-https://www.light.gg/db/category/1?page=1&f=-1%2C-56%2C57%2C%2C%2C%2C%2C-41%2C-42%2C-43
+Page 8 Finished
+https://www.light.gg/db/category/1?page=9&f=-1,-56,57,,,,,-41,-42,-43
 
 Add all non random roll Exotics
 Add all premade legendary (idk how they are called but the ones you get as masterwork with set rolls)
