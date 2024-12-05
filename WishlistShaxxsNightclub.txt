@@ -1,4 +1,4 @@
-title: PvE/PvP Wishlist, Version: 2.0.0 (Complete Rework), Last Updated: 05.12.2024 (Episode: Revenant)
+title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework), Last Updated: 05.12.2024 (Episode: Revenant)
 description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 0 / 929)
 
 --------------------------------------------------
