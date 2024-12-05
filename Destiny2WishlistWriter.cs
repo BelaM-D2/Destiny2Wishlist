@@ -8,7 +8,7 @@ class Program
     static void Main(string[] args)
     {
         string inputFile = "WishlistBlueprint.txt";
-        string outputFile = "Wishlist.txt";
+        string outputFile = "WishlistShaxxsNightclub.txt";
 
         Dictionary<string, string> weaponIds = new Dictionary<string, string> {
             {"Edge of Action", "2535142413"}
