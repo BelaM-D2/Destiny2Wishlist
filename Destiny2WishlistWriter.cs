@@ -18,6 +18,10 @@ class Program
             {"Perk1", "839105230"}
         };
 
+        Dictionary<string, string> enhancedPerkIds = new Dictionary<string, string> {
+            {"Perk1", "839105230"}
+        };
+
         // Read lines from the input file
         List<string> lines = File.ReadAllText(inputFile).Split(new[] { "\r\n", "\n" }, StringSplitOptions.None).ToList<string>();
         List<string> wishlistLines = new List<string>();
@@ -85,6 +89,11 @@ class Program
                     wishlistLines.Add("//notes:" + usage + " God Roll; Preferred Masterworks: " + masterworksString);
                     for(int i = 0; i < barrels.Length; i++) {
                         for(int j = 0; j < mags.Length; i++) {
+                            if(isEnhanced) {
+                                wishlistLines.Add("dimwishlist:item=" + (usage == "PvP" ? "-" : "") + weaponIds[weaponName] + "&perks=" + perkIds[barrels[i]] + "," + perkIds[mags[j]] + "," + enhancedPerkIds[perk1] + "," + enhancedPerkIds[perk2]);
+                                wishlistLines.Add("dimwishlist:item=" + (usage == "PvP" ? "-" : "") + weaponIds[weaponName] + "&perks=" + perkIds[barrels[i]] + "," + perkIds[mags[j]] + "," + perkIds[perk1] + "," + enhancedPerkIds[perk2]);
+                                wishlistLines.Add("dimwishlist:item=" + (usage == "PvP" ? "-" : "") + weaponIds[weaponName] + "&perks=" + perkIds[barrels[i]] + "," + perkIds[mags[j]] + "," + enhancedPerkIds[perk1] + "," + perkIds[perk2]);
+                            }
                             wishlistLines.Add("dimwishlist:item=" + (usage == "PvP" ? "-" : "") + weaponIds[weaponName] + "&perks=" + perkIds[barrels[i]] + "," + perkIds[mags[j]] + "," + perkIds[perk1] + "," + perkIds[perk2]);
                         }
                     }
@@ -108,6 +117,11 @@ class Program
                     wishlistLines.Add("//notes:" + usage + " Good Roll; Preferred Barrels: " + barrelsString);
                     for(int i = 0; i < magRolls.Count; i++) {
                         for(int j = 0; j < magRolls[i].Length; j++) {
+                            if(isEnhanced) {
+                                wishlistLines.Add("dimwishlist:item=" + (usage == "PvP" ? "-" : "") + weaponIds[weaponName] + "&perks=" + perkIds[magRolls[i][j]] + "," + enhancedPerkIds[overallRolls[overallCounter + i][0]] + "," + enhancedPerkIds[overallRolls[overallCounter + i][1]]);
+                                wishlistLines.Add("dimwishlist:item=" + (usage == "PvP" ? "-" : "") + weaponIds[weaponName] + "&perks=" + perkIds[magRolls[i][j]] + "," + perkIds[overallRolls[overallCounter + i][0]] + "," + enhancedPerkIds[overallRolls[overallCounter + i][1]]);
+                                wishlistLines.Add("dimwishlist:item=" + (usage == "PvP" ? "-" : "") + weaponIds[weaponName] + "&perks=" + perkIds[magRolls[i][j]] + "," + enhancedPerkIds[overallRolls[overallCounter + i][0]] + "," + perkIds[overallRolls[overallCounter + i][1]]);
+                            }
                             wishlistLines.Add("dimwishlist:item=" + (usage == "PvP" ? "-" : "") + weaponIds[weaponName] + "&perks=" + perkIds[magRolls[i][j]] + "," + perkIds[overallRolls[overallCounter + i][0]] + "," + perkIds[overallRolls[overallCounter + i][1]]);
                         }
                     }
@@ -121,6 +135,11 @@ class Program
                     // Write overall rolls
                     wishlistLines.Add("//notes: Okay Roll");
                     for(int i = 0; i < overallRolls.Count; i++) {
+                        if(isEnhanced) {
+                            wishlistLines.Add("dimwishlist:item=" + weaponIds[weaponName] + "&perks=" + enhancedPerkIds[overallRolls[i][0]] + "," + enhancedPerkIds[overallRolls[i][1]]);
+                            wishlistLines.Add("dimwishlist:item=" + weaponIds[weaponName] + "&perks=" + perkIds[overallRolls[i][0]] + "," + enhancedPerkIds[overallRolls[i][1]]);
+                            wishlistLines.Add("dimwishlist:item=" + weaponIds[weaponName] + "&perks=" + enhancedPerkIds[overallRolls[i][0]] + "," + perkIds[overallRolls[i][1]]);
+                        }
                         wishlistLines.Add("dimwishlist:item=" + weaponIds[weaponName] + "&perks=" + perkIds[overallRolls[i][0]] + "," + perkIds[overallRolls[i][1]]);
                     }
 
