@@ -1,0 +1,13 @@
+// Name WeaponName N | Masterworks
+
+// Usage PvE | Barrels
+// Perks Perk1 Perk2 | Mags
+// Perks Perk1 Perk2 | Mags
+// Mags
+
+// Usage PvP | Barrels
+// Perks Perk1 Perk2 | Mags
+// Perks Perk1 Perk2 | Mags
+// Mags
+
+// Overall
