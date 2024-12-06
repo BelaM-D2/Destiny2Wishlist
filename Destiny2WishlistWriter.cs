@@ -1005,7 +1005,27 @@ class Program
             {"AccurizedRounds", "3142289711"},
             {"ExtendedMag", "2420895100"},
             {"SwapMag", "3721627275"},
-            {"AppendedMag", "1087426260"}
+            {"AppendedMag", "1087426260"},
+
+            // Guard
+            {"HeavyGuard", "2349202967"},
+
+            // Blade
+            {"JaggedEdge", "3666208348"},
+            {"HungryEdge", "436053704"},
+            {"HonedEdge", "2827049491"},
+            {"EnduringBlade", "1261178282"},
+            {"TemperedEdge", "938542991"},
+
+            // Perks
+            {"VorpalWeapon", "1546637391"},
+            {"WhirlwindBlade", "3913600130"},
+            {"Surrounded", "3708227201"},
+            {"Counterattack", "3016987351"},
+            {"RelentlessStrikes", "1749209109"},
+            {"TirelessBlade", "2590710093"},
+            {"Thresh", "2726471870"},
+            {"FlashCounter", "2244851822"},
         };
 
         Dictionary<string, string> enhancedPerkIds = new Dictionary<string, string> {
