@@ -984,12 +984,38 @@ class Program
         Dictionary<string, string> perkIds = new Dictionary<string, string> {
             // Exotic
             {"RemoteShield", "2379536009"},
+            {"LightningSeeker", "844190854"},
+            {"RestortiveTurret", "3492337375"},
+            {"SilkboundSlayer", "2799667909"},
 
             // Stock
             {"ShortActionStock", "1067908860"},
             {"HandLaidStock", "990298390"},
             {"CompositeStock", "3465198467"},
             {"FittedStock", "4259401308"},
+
+            // Arrow
+            {"CarbonArrowShaft", "2154191829"},
+            {"CompactArrowShaft", "16392701"},
+            {"FibreglassArrowShaft", "3429800428"},
+            {"HelicalFletching", "3311977193"},
+            {"StraightFletching", "3827198035"},
+            {"NaturalFletching", "1500996326"},
+
+            // Bowstring
+            {"ElasticString", "2801223209"},
+            {"AgileBowstring", "3768438372"},
+            {"PolymerString", "852209214"},
+            {"TactileString", "1196733167"},
+            {"HighTensionString", "3371775011"},
+            {"NaturalString", "1784898267"},
+            {"FlexibleString", "4067834857"},
+
+            // Grip
+            {"HeavyGrip", "1012699414"},
+            {"TexturedGrip", "3917450714"},
+            {"SmoothGrip", "3326204863"},
+            {"PolymerGrip", "862848869"},
 
             // Haft
             {"BallisticTuning", "1263609309"},

@@ -1,5 +1,7 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 2 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 5 / 917)
+
+
 
 // Name EdgeOfAction N | 
 
@@ -12,6 +14,51 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Mags
 
 // Overall
+
+
+
+// Name EdgeOfConcurrence N | 
+
+// Usage PvE | BallisticTuning LightweightEmitter LowImpedanceWindings AuxiliaryReserves
+// Perks LightningSeeker ShortActionStock | LightMag AlloyMagazine AppendedMag
+// Mags
+
+// Usage PvP | BallisticTuning TemperedTrussRod
+// Perks LightningSeeker ShortActionStock | AccurizedRounds SwapMag
+// Mags
+
+// Overall
+
+
+
+// Name EdgeOfIntent N | 
+
+// Usage PvE | BallisticTuning LightweightEmitter LowImpedanceWindings AuxiliaryReserves
+// Perks RestorativeTurret ShortActionStock | LightMag AlloyMagazine AppendedMag
+// Mags
+
+// Usage PvP | BallisticTuning TemperedTrussRod
+// Perks RestorativeTurret ShortActionStock | AccurizedRounds SwapMag
+// Mags
+
+// Overall
+
+
+
+// Name WishKeeper N | 
+
+// Usage PvE | ElasticString
+// Perks SilkboundSlayer HeavyGrip | CompactArrowShaft
+// Perks SilkboundSlayer SmoothGrip | CompactArrowShaft
+// Mags
+
+// Usage PvP | ElasticString
+// Perks SilkboundSlayer TexturedGrip | FiberglassArrowShaft CompactArrowShaft
+// Perks SilkboundSlayer SmoothGrip | FiberglassArrowShaft CompactArrowShaft
+// Mags
+
+// Overall
+
 
 
 // Name CrownSplitter N | Impact
