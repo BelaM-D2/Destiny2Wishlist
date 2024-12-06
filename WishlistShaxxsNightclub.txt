@@ -1,5 +1,7 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 2 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 5 / 917)
+
+
 
 // Name EdgeOfAction N | 
 
@@ -40,6 +42,130 @@ dimwishlist:item=-2535142413&perks=3721627275,2379536009,1067908860
 //notes: Okay Roll
 dimwishlist:item=2535142413&perks=2379536009,1067908860
 dimwishlist:item=2535142413&perks=2379536009,1067908860
+
+
+
+// Name EdgeOfConcurrence N | 
+
+// Usage PvE | BallisticTuning LightweightEmitter LowImpedanceWindings AuxiliaryReserves
+// Perks LightningSeeker ShortActionStock | LightMag AlloyMagazine AppendedMag
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=542203595&perks=1263609309,679225683,844190854,1067908860
+dimwishlist:item=542203595&perks=1263609309,1431678320,844190854,1067908860
+dimwishlist:item=542203595&perks=1263609309,1087426260,844190854,1067908860
+dimwishlist:item=542203595&perks=594346985,679225683,844190854,1067908860
+dimwishlist:item=542203595&perks=594346985,1431678320,844190854,1067908860
+dimwishlist:item=542203595&perks=594346985,1087426260,844190854,1067908860
+dimwishlist:item=542203595&perks=2713678205,679225683,844190854,1067908860
+dimwishlist:item=542203595&perks=2713678205,1431678320,844190854,1067908860
+dimwishlist:item=542203595&perks=2713678205,1087426260,844190854,1067908860
+dimwishlist:item=542203595&perks=580685494,679225683,844190854,1067908860
+dimwishlist:item=542203595&perks=580685494,1431678320,844190854,1067908860
+dimwishlist:item=542203595&perks=580685494,1087426260,844190854,1067908860
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: BallisticTuning, LightweightEmitter, LowImpedanceWindings, AuxiliaryReserves
+dimwishlist:item=542203595&perks=679225683,844190854,1067908860
+dimwishlist:item=542203595&perks=1431678320,844190854,1067908860
+dimwishlist:item=542203595&perks=1087426260,844190854,1067908860
+
+// Usage PvP | BallisticTuning TemperedTrussRod
+// Perks LightningSeeker ShortActionStock | AccurizedRounds SwapMag
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-542203595&perks=1263609309,3142289711,844190854,1067908860
+dimwishlist:item=-542203595&perks=1263609309,3721627275,844190854,1067908860
+dimwishlist:item=-542203595&perks=5699512,3142289711,844190854,1067908860
+dimwishlist:item=-542203595&perks=5699512,3721627275,844190854,1067908860
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: BallisticTuning, TemperedTrussRod
+dimwishlist:item=-542203595&perks=3142289711,844190854,1067908860
+dimwishlist:item=-542203595&perks=3721627275,844190854,1067908860
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=542203595&perks=844190854,1067908860
+dimwishlist:item=542203595&perks=844190854,1067908860
+
+
+
+// Name EdgeOfIntent N | 
+
+// Usage PvE | BallisticTuning LightweightEmitter LowImpedanceWindings AuxiliaryReserves
+// Perks RestorativeTurret ShortActionStock | LightMag AlloyMagazine AppendedMag
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=14194600&perks=1263609309,679225683,3492337375,1067908860
+dimwishlist:item=14194600&perks=1263609309,1431678320,3492337375,1067908860
+dimwishlist:item=14194600&perks=1263609309,1087426260,3492337375,1067908860
+dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860
+dimwishlist:item=14194600&perks=594346985,1431678320,3492337375,1067908860
+dimwishlist:item=14194600&perks=594346985,1087426260,3492337375,1067908860
+dimwishlist:item=14194600&perks=2713678205,679225683,3492337375,1067908860
+dimwishlist:item=14194600&perks=2713678205,1431678320,3492337375,1067908860
+dimwishlist:item=14194600&perks=2713678205,1087426260,3492337375,1067908860
+dimwishlist:item=14194600&perks=580685494,679225683,3492337375,1067908860
+dimwishlist:item=14194600&perks=580685494,1431678320,3492337375,1067908860
+dimwishlist:item=14194600&perks=580685494,1087426260,3492337375,1067908860
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: BallisticTuning, LightweightEmitter, LowImpedanceWindings, AuxiliaryReserves
+dimwishlist:item=14194600&perks=679225683,3492337375,1067908860
+dimwishlist:item=14194600&perks=1431678320,3492337375,1067908860
+dimwishlist:item=14194600&perks=1087426260,3492337375,1067908860
+
+// Usage PvP | BallisticTuning TemperedTrussRod
+// Perks RestorativeTurret ShortActionStock | AccurizedRounds SwapMag
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-14194600&perks=1263609309,3142289711,3492337375,1067908860
+dimwishlist:item=-14194600&perks=1263609309,3721627275,3492337375,1067908860
+dimwishlist:item=-14194600&perks=5699512,3142289711,3492337375,1067908860
+dimwishlist:item=-14194600&perks=5699512,3721627275,3492337375,1067908860
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: BallisticTuning, TemperedTrussRod
+dimwishlist:item=-14194600&perks=3142289711,3492337375,1067908860
+dimwishlist:item=-14194600&perks=3721627275,3492337375,1067908860
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=14194600&perks=3492337375,1067908860
+dimwishlist:item=14194600&perks=3492337375,1067908860
+
+
+
+// Name WishKeeper N | 
+
+// Usage PvE | ElasticString
+// Perks SilkboundSlayer HeavyGrip | CompactArrowShaft
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=2910326942&perks=2801223209,16392701,2799667909,1012699414
+// Perks SilkboundSlayer SmoothGrip | CompactArrowShaft
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=2910326942&perks=2801223209,16392701,2799667909,3326204863
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: ElasticString
+dimwishlist:item=2910326942&perks=16392701,2799667909,1012699414
+dimwishlist:item=2910326942&perks=16392701,2799667909,3326204863
+
+// Usage PvP | ElasticString
+// Perks SilkboundSlayer TexturedGrip | FiberglassArrowShaft CompactArrowShaft
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-2910326942&perks=2801223209,3429800428,2799667909,3917450714
+dimwishlist:item=-2910326942&perks=2801223209,16392701,2799667909,3917450714
+// Perks SilkboundSlayer SmoothGrip | FiberglassArrowShaft CompactArrowShaft
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-2910326942&perks=2801223209,3429800428,2799667909,3326204863
+dimwishlist:item=-2910326942&perks=2801223209,16392701,2799667909,3326204863
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: ElasticString
+dimwishlist:item=-2910326942&perks=3429800428,2799667909,3917450714
+dimwishlist:item=-2910326942&perks=16392701,2799667909,3917450714
+dimwishlist:item=-2910326942&perks=3429800428,2799667909,3326204863
+dimwishlist:item=-2910326942&perks=16392701,2799667909,3326204863
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=2910326942&perks=2799667909,1012699414
+dimwishlist:item=2910326942&perks=2799667909,3326204863
+dimwishlist:item=2910326942&perks=2799667909,3917450714
+dimwishlist:item=2910326942&perks=2799667909,3326204863
+
 
 
 // Name CrownSplitter N | Impact

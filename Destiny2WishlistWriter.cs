@@ -985,7 +985,7 @@ class Program
             // Exotic
             {"RemoteShield", "2379536009"},
             {"LightningSeeker", "844190854"},
-            {"RestortiveTurret", "3492337375"},
+            {"RestorativeTurret", "3492337375"},
             {"SilkboundSlayer", "2799667909"},
 
             // Stock
@@ -997,7 +997,7 @@ class Program
             // Arrow
             {"CarbonArrowShaft", "2154191829"},
             {"CompactArrowShaft", "16392701"},
-            {"FibreglassArrowShaft", "3429800428"},
+            {"FiberglassArrowShaft", "3429800428"},
             {"HelicalFletching", "3311977193"},
             {"StraightFletching", "3827198035"},
             {"NaturalFletching", "1500996326"},
