@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Destiny2Wishlist")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+176dee8713a17eac7c42f55bf473b9ded49f72c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a281ff2fe1f1091112c84942bdd5899335085be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Destiny2Wishlist")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Destiny2Wishlist")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
