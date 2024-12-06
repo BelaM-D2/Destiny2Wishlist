@@ -1,5 +1,5 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 1 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 2 / 917)
 
 // Name EdgeOfAction N | 
 
@@ -16,14 +16,13 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 
 // Name CrownSplitter N | Impact
 
-// Usage PvE | Barrels
-// Perks RelentlessStrikes Perk2 | Mags
-// Perks Perk1 Perk2 | Mags
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes VorpalWeapon | HeavyGuard
+// Perks RelentlessStrikes WhirlwindBlade | HeavyGuard
 // Mags
 
-// Usage PvP | Barrels
-// Perks Perk1 Perk2 | Mags
-// Perks Perk1 Perk2 | Mags
+// Usage PvP | JaggedEdge TemperedEdge HonedEdge
+// Perks TirelessBlade VorpalWeapon | HeavyGuard
 // Mags
 
 // Overall
