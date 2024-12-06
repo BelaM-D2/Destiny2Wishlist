@@ -1,9 +1,21 @@
-title: PvE/PvP Wishlist, Version: 2.0.0 (Complete Rework), Last Updated: 05.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 0 / 929)
+title: PvE/PvP Wishlist, Version: 2.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 05.12.2024 (Episode: Revenant)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 0 / 917)
 
 --------------------------------------------------
 ##Exotics
 --------------------------------------------------
+
+// Name EdgeOfAction N | 
+
+// Usage PvE | 
+// Perks RemoteShield ShortActionStock | Mags
+// Mags
+
+// Usage PvP | BallisticTuning
+// Perks RemoteShield ShortActionStock | AccurizedRounds SwapMag
+// Mags
+
+// Overall
 
 --------------------------------------------------
 ##Vanguard
