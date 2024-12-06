@@ -7,11 +7,11 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 
 // Name EdgeOfAction N | 
 
-// Usage PvE | 
-// Perks RemoteShield ShortActionStock | Mags
+// Usage PvE | BallisticTuning LightweightEmitter LowImpedanceWindings AuxiliaryReserves
+// Perks RemoteShield ShortActionStock | LightMag AlloyMagazine AppendedMag
 // Mags
 
-// Usage PvP | BallisticTuning
+// Usage PvP | BallisticTuning TemperedTrussRod
 // Perks RemoteShield ShortActionStock | AccurizedRounds SwapMag
 // Mags
 
