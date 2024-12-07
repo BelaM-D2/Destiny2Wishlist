@@ -114,8 +114,10 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 
 // Usage PvP | CorkscrewRifling SmallBore FlutedBarrel
 // Perks MovingTarget FittedStock | RicochetRounds AccurizedRounds
+// Perks KillingWind FittedStock | RicochetRounds AccurizedRounds
 // Perks VorpalWeapon FittedStock | RicochetRounds AccurizedRounds
 // Perks MovingTarget HandLaidStock | RicochetRounds AccurizedRounds
+// Perks KillingWind HandLaidStock | RicochetRounds AccurizedRounds
 // Perks VorpalWeapon HandLaidStock | RicochetRounds AccurizedRounds
 // Mags
 
@@ -133,8 +135,10 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 
 // Usage PvP | CorkscrewRifling SmallBore FlutedBarrel
 // Perks MovingTarget FittedStock | RicochetRounds AccurizedRounds
+// Perks KillingWind FittedStock | RicochetRounds AccurizedRounds
 // Perks VorpalWeapon FittedStock | RicochetRounds AccurizedRounds
 // Perks MovingTarget HandLaidStock | RicochetRounds AccurizedRounds
+// Perks KillingWind HandLaidStock | RicochetRounds AccurizedRounds
 // Perks VorpalWeapon HandLaidStock | RicochetRounds AccurizedRounds
 // Mags
 
