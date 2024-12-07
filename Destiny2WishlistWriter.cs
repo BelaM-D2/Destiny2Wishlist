@@ -1111,9 +1111,29 @@ class Program
             {"ShootToLoot", "3700496672"},
             {"RapidHit", "247725512"},
             {"Subsistence", "1820235745"},
+            {"Incandescent", "4293542123"},
+            {"ValiantCharge", "4274614370"},
+            {"EnGarde", "1685431615"},
+            {"Pugilist", "691659142"},
+            {"Unrelenting", "3108830275"},
+            {"DuelistsTrance", "3705817207"},
+            {"Tresh", "2726471870"},
+            {"EnergyTransfer", "2030760728"},
         };
 
         Dictionary<string, string> enhancedPerkIds = new Dictionary<string, string> {
+            {"Surrounded", "781192741"},
+            {"Incandescent", "2675184851"},
+            {"VorpalWeapon", "3418165135"},
+            {"ValiantCharge", "4274613598"},
+            {"EnGarde", "3406782879"},
+            {"Pugilist", "536173722"},
+            {"TirelessBlade", "4183521337"},
+            {"Unrelenting", "855168139"},
+            {"DuelistsTrance", "1646437399"},
+            {"Thresh", "1172413778"},
+            {"FlashCounter", "2860991074"},
+            {"EnergyTransfer", "2856365672"},
         };
 
         // Read lines from the input file

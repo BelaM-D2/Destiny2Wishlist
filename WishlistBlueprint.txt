@@ -1,5 +1,5 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 15 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 17 / 917)
 
 
 
@@ -223,6 +223,29 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Usage PvE | JaggedEdge
 // Perks RelentlessStrikes VorpalWeapon | HeavyGuard
 // Perks RelentlessStrikes WhirlwindBlade | HeavyGuard
+// Mags
+
+// Overall
+
+
+
+// Name ThroneCleaver_Old N | Impact
+
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes WhirlwindBlade | HeavyGuard
+// Mags
+
+// Overall
+
+
+
+// Name ThroneCleaver E | Impact
+
+// Usage PvE | HungryEdge EnduringBlade
+// Perks TirelessBlade Incandescent | HeavyGuard
+// Perks Unrelenting Incandescent | HeavyGuard
+// Perks TirelessBlade Surrounded | HeavyGuard
+// Perks Unrelenting Surrounded | HeavyGuard
 // Mags
 
 // Overall
