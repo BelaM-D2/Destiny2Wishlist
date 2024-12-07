@@ -991,6 +991,14 @@ class Program
             {"RewindRounds_OP", "2578928832"},
             {"Headseeker_OP", "2578928833"},
             {"RapidHit_OP", "2578928835"},
+            {"ToxicOverload", "4015745376"},
+            {"FanaticalLance", "619537267"},
+            {"PerpetualLoophole", "2171805903"},
+            {"TheFundamentals", "2620589274"},
+            {"FieldPrep_WO", "777589559"},
+            {"Mulligan_WO", "3337692349"},
+            {"NoDistractions_WO", "777589556"},
+            {"EnlightenedAction_WO", "777589557"},
 
             // Stock
             {"ShortActionStock", "1067908860"},
@@ -1043,6 +1051,8 @@ class Program
             {"RicochetRounds", "1885400500"},
             {"ArmorPiercingRounds", "1968497646"},
             {"HighCaliberRounds", "1561002382"},
+            {"HighVelocityRounds", "2822142346"},
+            {"ImplosionRounds", "3492396210"},
 
             // Guard
             {"HeavyGuard", "2349202967"},
@@ -1053,6 +1063,15 @@ class Program
             {"HonedEdge", "2827049491"},
             {"EnduringBlade", "1261178282"},
             {"TemperedEdge", "938542991"},
+
+            // LauncherBarrel
+            {"QuickLaunch", "3525010810"},
+            {"HardLaunch", "981914802"},
+            {"SmartDriftControl", "3798852852"},
+            {"VolatileLaunch", "1478423395"},
+            {"Countermass", "3809316345"},
+            {"LinearCompensator", "1441682018"},
+            {"ConfinedLaunch", "1844523823"},
 
             // Barrel
             {"FullBore", "202670084"},

@@ -1,5 +1,5 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 10 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 15 / 917)
 
 
 
@@ -471,6 +471,185 @@ dimwishlist:item=3654674561&perks=1546637391,4259401308
 dimwishlist:item=3654674561&perks=588594999,990298390
 dimwishlist:item=3654674561&perks=2450788523,990298390
 dimwishlist:item=3654674561&perks=1546637391,990298390
+
+
+
+// Name OsteoStriga N | 
+
+// Usage PvE | SmallBore CorkscrewRifling
+// Perks ToxicOverload HandLaidStock | FlaredMagwell TacticalMag
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=46524085&perks=1482024992,3230963543,4015745376,990298390
+dimwishlist:item=46524085&perks=1482024992,106909392,4015745376,990298390
+dimwishlist:item=46524085&perks=4090651448,3230963543,4015745376,990298390
+dimwishlist:item=46524085&perks=4090651448,106909392,4015745376,990298390
+// Perks ToxicOverload CompositeStock | FlaredMagwell TacticalMag
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=46524085&perks=1482024992,3230963543,4015745376,3465198467
+dimwishlist:item=46524085&perks=1482024992,106909392,4015745376,3465198467
+dimwishlist:item=46524085&perks=4090651448,3230963543,4015745376,3465198467
+dimwishlist:item=46524085&perks=4090651448,106909392,4015745376,3465198467
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: SmallBore, CorkscrewRifling
+dimwishlist:item=46524085&perks=3230963543,4015745376,990298390
+dimwishlist:item=46524085&perks=106909392,4015745376,990298390
+dimwishlist:item=46524085&perks=3230963543,4015745376,3465198467
+dimwishlist:item=46524085&perks=106909392,4015745376,3465198467
+
+// Usage PvP | SmallBore HammerForgedRifling FlutedBarrel
+// Perks ToxicOverload ShortActionStock | AccurizedRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-46524085&perks=1482024992,3142289711,4015745376,1067908860
+dimwishlist:item=-46524085&perks=3250034553,3142289711,4015745376,1067908860
+dimwishlist:item=-46524085&perks=1840239774,3142289711,4015745376,1067908860
+// Perks ToxicOverload CompositeStock | AccurizedRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-46524085&perks=1482024992,3142289711,4015745376,3465198467
+dimwishlist:item=-46524085&perks=3250034553,3142289711,4015745376,3465198467
+dimwishlist:item=-46524085&perks=1840239774,3142289711,4015745376,3465198467
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: SmallBore, HammerForgedRifling, FlutedBarrel
+dimwishlist:item=-46524085&perks=3142289711,4015745376,1067908860
+dimwishlist:item=-46524085&perks=3142289711,4015745376,3465198467
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=46524085&perks=4015745376,990298390
+dimwishlist:item=46524085&perks=4015745376,3465198467
+dimwishlist:item=46524085&perks=4015745376,1067908860
+dimwishlist:item=46524085&perks=4015745376,3465198467
+
+
+
+// Name ChoirOfOne N | 
+
+// Usage PvE | ArrowheadBrake SmallBore CorkscrewRifling
+// Perks FanaticalLance FittedStock | FlaredMagwell
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=3698448090&perks=839105230,3230963543,619537267,4259401308
+dimwishlist:item=3698448090&perks=1482024992,3230963543,619537267,4259401308
+dimwishlist:item=3698448090&perks=4090651448,3230963543,619537267,4259401308
+// Perks FanaticalLance HandLaidStock | FlaredMagwell
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=3698448090&perks=839105230,3230963543,619537267,990298390
+dimwishlist:item=3698448090&perks=1482024992,3230963543,619537267,990298390
+dimwishlist:item=3698448090&perks=4090651448,3230963543,619537267,990298390
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: ArrowheadBrake, SmallBore, CorkscrewRifling
+dimwishlist:item=3698448090&perks=3230963543,619537267,4259401308
+dimwishlist:item=3698448090&perks=3230963543,619537267,990298390
+
+// Usage PvP | SmallBore FullBore HammerForgedRifling
+// Perks FanaticalLance FittedStock | AccurizedRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-3698448090&perks=1482024992,3142289711,619537267,4259401308
+dimwishlist:item=-3698448090&perks=202670084,3142289711,619537267,4259401308
+dimwishlist:item=-3698448090&perks=3250034553,3142289711,619537267,4259401308
+// Perks FanaticalLance HandLaidStock | AccurizedRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-3698448090&perks=1482024992,3142289711,619537267,990298390
+dimwishlist:item=-3698448090&perks=202670084,3142289711,619537267,990298390
+dimwishlist:item=-3698448090&perks=3250034553,3142289711,619537267,990298390
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: SmallBore, FullBore, HammerForgedRifling
+dimwishlist:item=-3698448090&perks=3142289711,619537267,4259401308
+dimwishlist:item=-3698448090&perks=3142289711,619537267,990298390
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=3698448090&perks=619537267,4259401308
+dimwishlist:item=3698448090&perks=619537267,990298390
+dimwishlist:item=3698448090&perks=619537267,4259401308
+dimwishlist:item=3698448090&perks=619537267,990298390
+
+
+
+// Name Vexcalibur N | 
+
+// Usage PvE | BallisticTuning LightweightEmitter LowImpedanceWindings AuxiliaryReserves
+// Perks PerpetualLoophole ShortActionStock | LightMag AlloyMagazine AppendedMag
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=3118061005&perks=1263609309,679225683,2171805903,1067908860
+dimwishlist:item=3118061005&perks=1263609309,1431678320,2171805903,1067908860
+dimwishlist:item=3118061005&perks=1263609309,1087426260,2171805903,1067908860
+dimwishlist:item=3118061005&perks=594346985,679225683,2171805903,1067908860
+dimwishlist:item=3118061005&perks=594346985,1431678320,2171805903,1067908860
+dimwishlist:item=3118061005&perks=594346985,1087426260,2171805903,1067908860
+dimwishlist:item=3118061005&perks=2713678205,679225683,2171805903,1067908860
+dimwishlist:item=3118061005&perks=2713678205,1431678320,2171805903,1067908860
+dimwishlist:item=3118061005&perks=2713678205,1087426260,2171805903,1067908860
+dimwishlist:item=3118061005&perks=580685494,679225683,2171805903,1067908860
+dimwishlist:item=3118061005&perks=580685494,1431678320,2171805903,1067908860
+dimwishlist:item=3118061005&perks=580685494,1087426260,2171805903,1067908860
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: BallisticTuning, LightweightEmitter, LowImpedanceWindings, AuxiliaryReserves
+dimwishlist:item=3118061005&perks=679225683,2171805903,1067908860
+dimwishlist:item=3118061005&perks=1431678320,2171805903,1067908860
+dimwishlist:item=3118061005&perks=1087426260,2171805903,1067908860
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=3118061005&perks=2171805903,1067908860
+
+
+
+// Name DeadMessenger N | 
+
+// Usage PvE | QuickLaunch VolatileLaunch
+// Perks TheFundamentals ShortActionStock | HighVelocityRounds
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=46125926&perks=3525010810,2822142346,2620589274,1067908860
+dimwishlist:item=46125926&perks=1478423395,2822142346,2620589274,1067908860
+// Perks TheFundamentals ShortActionStock | HighVelocityRounds
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=46125926&perks=3525010810,2822142346,2620589274,1067908860
+dimwishlist:item=46125926&perks=1478423395,2822142346,2620589274,1067908860
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: QuickLaunch, VolatileLaunch
+dimwishlist:item=46125926&perks=2822142346,2620589274,1067908860
+dimwishlist:item=46125926&perks=2822142346,2620589274,1067908860
+
+// Usage PvP | QuickLaunch HardLaunch
+// Perks TheFundamentals ShortActionStock | HighVelocityRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-46125926&perks=3525010810,2822142346,2620589274,1067908860
+dimwishlist:item=-46125926&perks=981914802,2822142346,2620589274,1067908860
+// Perks TheFundamentals ShortActionStock | HighVelocityRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-46125926&perks=3525010810,2822142346,2620589274,1067908860
+dimwishlist:item=-46125926&perks=981914802,2822142346,2620589274,1067908860
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: QuickLaunch, HardLaunch
+dimwishlist:item=-46125926&perks=2822142346,2620589274,1067908860
+dimwishlist:item=-46125926&perks=2822142346,2620589274,1067908860
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=46125926&perks=2620589274,1067908860
+dimwishlist:item=46125926&perks=2620589274,1067908860
+dimwishlist:item=46125926&perks=2620589274,1067908860
+dimwishlist:item=46125926&perks=2620589274,1067908860
+
+
+
+
+
+
+
+// Name WhisperOfTheWorm N | 
+
+// Usage PvE | ChamberedCompensator ExtendedBarrel
+// Perks FieldPrep_WO FittedStock | SteadyRounds
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=1983149589&perks=3661387068,3177308360,777589559,4259401308
+dimwishlist:item=1983149589&perks=1467527085,3177308360,777589559,4259401308
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: ChamberedCompensator, ExtendedBarrel
+dimwishlist:item=1983149589&perks=3177308360,777589559,4259401308
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=1983149589&perks=777589559,4259401308
 
 
 

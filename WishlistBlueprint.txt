@@ -1,5 +1,5 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 10 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 15 / 917)
 
 
 
@@ -140,6 +140,78 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Perks MovingTarget HandLaidStock | RicochetRounds AccurizedRounds
 // Perks KillingWind HandLaidStock | RicochetRounds AccurizedRounds
 // Perks VorpalWeapon HandLaidStock | RicochetRounds AccurizedRounds
+// Mags
+
+// Overall
+
+
+
+// Name OsteoStriga N | 
+
+// Usage PvE | SmallBore CorkscrewRifling
+// Perks ToxicOverload HandLaidStock | FlaredMagwell TacticalMag
+// Perks ToxicOverload CompositeStock | FlaredMagwell TacticalMag
+// Mags
+
+// Usage PvP | SmallBore HammerForgedRifling FlutedBarrel
+// Perks ToxicOverload ShortActionStock | AccurizedRounds
+// Perks ToxicOverload CompositeStock | AccurizedRounds
+// Mags
+
+// Overall
+
+
+
+// Name ChoirOfOne N | 
+
+// Usage PvE | ArrowheadBrake SmallBore CorkscrewRifling
+// Perks FanaticalLance FittedStock | FlaredMagwell
+// Perks FanaticalLance HandLaidStock | FlaredMagwell
+// Mags
+
+// Usage PvP | SmallBore FullBore HammerForgedRifling
+// Perks FanaticalLance FittedStock | AccurizedRounds
+// Perks FanaticalLance HandLaidStock | AccurizedRounds
+// Mags
+
+// Overall
+
+
+
+// Name Vexcalibur N | 
+
+// Usage PvE | BallisticTuning LightweightEmitter LowImpedanceWindings AuxiliaryReserves
+// Perks PerpetualLoophole ShortActionStock | LightMag AlloyMagazine AppendedMag
+// Mags
+
+// Overall
+
+
+
+// Name DeadMessenger N | 
+
+// Usage PvE | QuickLaunch VolatileLaunch
+// Perks TheFundamentals ShortActionStock | HighVelocityRounds
+// Perks TheFundamentals ShortActionStock | HighVelocityRounds
+// Mags
+
+// Usage PvP | QuickLaunch HardLaunch
+// Perks TheFundamentals ShortActionStock | HighVelocityRounds
+// Perks TheFundamentals ShortActionStock | HighVelocityRounds
+// Mags
+
+// Overall
+
+
+
+
+
+
+
+// Name WhisperOfTheWorm N | 
+
+// Usage PvE | ChamberedCompensator ExtendedBarrel
+// Perks FieldPrep_WO FittedStock | SteadyRounds
 // Mags
 
 // Overall
