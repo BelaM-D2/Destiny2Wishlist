@@ -1,5 +1,5 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 17 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 0 / 917)
 
 
 
@@ -246,6 +246,107 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Perks Unrelenting Incandescent | HeavyGuard
 // Perks TirelessBlade Surrounded | HeavyGuard
 // Perks Unrelenting Surrounded | HeavyGuard
+// Mags
+
+// Overall
+
+
+
+// Name GoldTusk_Old N | Impact
+
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes WhirlwindBlade | SwordmastersGuard
+// Mags
+
+// Usage PvE | HungryEdge EnduringBlade
+// Perks TirelessBlade Surrounded | SwordmastersGuard
+// Mags
+
+// Overall
+
+
+
+// Name GoldTusk E | Impact
+
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes WhirlwindBlade | SwordmastersGuard
+// Mags
+
+// Usage PvE | HungryEdge EnduringBlade
+// Perks TirelessBlade ChainReaction | SwordmastersGuard
+// Perks Unrelenting ChainReaction | SwordmastersGuard
+// Mags
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade ChainReaction | SwordmastersGuard
+// Perks ValiantCharge ChainReaction | SwordmastersGuard
+// Mags
+
+// Overall
+
+
+
+// Name Quickfang N | Impact
+
+// Usage PvE | JaggedEdge HungryEdge EnduringBlade
+// Perks TirelessBlade AssassinsBlade | SwordmastersGuard
+// Perks TirelessBlade OneForAll | SwordmastersGuard
+// Mags
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade AssassinsBlade | SwordmastersGuard
+// Mags
+
+// Overall
+
+
+
+// Name DeathsRazor E | Impact
+
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes WhirlwindBlade | InfiniteGuard
+// Mags
+
+// Usage PvE | HungryEdge EnduringBlade
+// Perks TirelessBlade DestabilizingRounds | InfiniteGuard
+// Perks TirelessBlade Surrounded | InfiniteGuard
+// Mags
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade ValiantCharge | InfiniteGuard
+// Mags
+
+// Usage Fun | HungryEdge EnduringBlade
+// Perks Thresh Demolitionist | InfiniteGuard
+// Mags
+
+// Overall
+
+
+
+// Name DeathsRazor_Old N | Impact
+
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes WhirlwindBlade | InfiniteGuard
+// Mags
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade AssassinsBlade | InfiniteGuard
+// Mags
+
+// Overall
+
+
+
+// Name EternitysEdge N | Impact
+
+// Usage PvE | HungryEdge EnduringBlade
+// Perks TirelessBlade Surrounded | InfiniteGuard
+// Perks TirelessBlade AssassinsBlade | InfiniteGuard
+// Mags
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade AssassinsBlade | InfiniteGuard
 // Mags
 
 // Overall

@@ -1,5 +1,5 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 17 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 23 / 917)
 
 
 
@@ -770,3 +770,322 @@ dimwishlist:item=3371413059&perks=855168139,781192741
 dimwishlist:item=3371413059&perks=3108830275,781192741
 dimwishlist:item=3371413059&perks=855168139,3708227201
 dimwishlist:item=3371413059&perks=3108830275,3708227201
+
+
+
+// Name GoldTusk_Old N | Impact
+
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes WhirlwindBlade | SwordmastersGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=569799275&perks=3666208348,269888150,1749209109,3913600130
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: JaggedEdge
+dimwishlist:item=569799275&perks=269888150,1749209109,3913600130
+
+// Usage PvE | HungryEdge EnduringBlade
+// Perks TirelessBlade Surrounded | SwordmastersGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=569799275&perks=436053704,269888150,2590710093,3708227201
+dimwishlist:item=569799275&perks=1261178282,269888150,2590710093,3708227201
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: HungryEdge, EnduringBlade
+dimwishlist:item=569799275&perks=269888150,2590710093,3708227201
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=569799275&perks=1749209109,3913600130
+dimwishlist:item=569799275&perks=2590710093,3708227201
+
+
+
+// Name GoldTusk E | Impact
+
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes WhirlwindBlade | SwordmastersGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=3371413057&perks=3666208348,269888150,4085959009,147913470
+dimwishlist:item=3371413057&perks=3666208348,269888150,1749209109,147913470
+dimwishlist:item=3371413057&perks=3666208348,269888150,4085959009,3913600130
+dimwishlist:item=3371413057&perks=3666208348,269888150,1749209109,3913600130
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: JaggedEdge
+dimwishlist:item=3371413057&perks=269888150,4085959009,147913470
+dimwishlist:item=3371413057&perks=269888150,1749209109,147913470
+dimwishlist:item=3371413057&perks=269888150,4085959009,3913600130
+dimwishlist:item=3371413057&perks=269888150,1749209109,3913600130
+
+// Usage PvE | HungryEdge EnduringBlade
+// Perks TirelessBlade ChainReaction | SwordmastersGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=3371413057&perks=436053704,269888150,4183521337,598607952
+dimwishlist:item=3371413057&perks=436053704,269888150,2590710093,598607952
+dimwishlist:item=3371413057&perks=436053704,269888150,4183521337,2396489472
+dimwishlist:item=3371413057&perks=436053704,269888150,2590710093,2396489472
+dimwishlist:item=3371413057&perks=1261178282,269888150,4183521337,598607952
+dimwishlist:item=3371413057&perks=1261178282,269888150,2590710093,598607952
+dimwishlist:item=3371413057&perks=1261178282,269888150,4183521337,2396489472
+dimwishlist:item=3371413057&perks=1261178282,269888150,2590710093,2396489472
+// Perks Unrelenting ChainReaction | SwordmastersGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=3371413057&perks=436053704,269888150,855168139,598607952
+dimwishlist:item=3371413057&perks=436053704,269888150,3108830275,598607952
+dimwishlist:item=3371413057&perks=436053704,269888150,855168139,2396489472
+dimwishlist:item=3371413057&perks=436053704,269888150,3108830275,2396489472
+dimwishlist:item=3371413057&perks=1261178282,269888150,855168139,598607952
+dimwishlist:item=3371413057&perks=1261178282,269888150,3108830275,598607952
+dimwishlist:item=3371413057&perks=1261178282,269888150,855168139,2396489472
+dimwishlist:item=3371413057&perks=1261178282,269888150,3108830275,2396489472
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: HungryEdge, EnduringBlade
+dimwishlist:item=3371413057&perks=269888150,4183521337,598607952
+dimwishlist:item=3371413057&perks=269888150,2590710093,598607952
+dimwishlist:item=3371413057&perks=269888150,4183521337,2396489472
+dimwishlist:item=3371413057&perks=269888150,2590710093,2396489472
+dimwishlist:item=3371413057&perks=269888150,855168139,598607952
+dimwishlist:item=3371413057&perks=269888150,3108830275,598607952
+dimwishlist:item=3371413057&perks=269888150,855168139,2396489472
+dimwishlist:item=3371413057&perks=269888150,3108830275,2396489472
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade ChainReaction | SwordmastersGuard
+//notes:PvP God Roll; Preferred Masterworks: Impact
+dimwishlist:item=-3371413057&perks=3666208348,269888150,4183521337,598607952
+dimwishlist:item=-3371413057&perks=3666208348,269888150,2590710093,598607952
+dimwishlist:item=-3371413057&perks=3666208348,269888150,4183521337,2396489472
+dimwishlist:item=-3371413057&perks=3666208348,269888150,2590710093,2396489472
+// Perks ValiantCharge ChainReaction | SwordmastersGuard
+//notes:PvP God Roll; Preferred Masterworks: Impact
+dimwishlist:item=-3371413057&perks=3666208348,269888150,4274613598,598607952
+dimwishlist:item=-3371413057&perks=3666208348,269888150,4274614370,598607952
+dimwishlist:item=-3371413057&perks=3666208348,269888150,4274613598,2396489472
+dimwishlist:item=-3371413057&perks=3666208348,269888150,4274614370,2396489472
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: JaggedEdge
+dimwishlist:item=-3371413057&perks=269888150,4183521337,598607952
+dimwishlist:item=-3371413057&perks=269888150,2590710093,598607952
+dimwishlist:item=-3371413057&perks=269888150,4183521337,2396489472
+dimwishlist:item=-3371413057&perks=269888150,2590710093,2396489472
+dimwishlist:item=-3371413057&perks=269888150,4274613598,598607952
+dimwishlist:item=-3371413057&perks=269888150,4274614370,598607952
+dimwishlist:item=-3371413057&perks=269888150,4274613598,2396489472
+dimwishlist:item=-3371413057&perks=269888150,4274614370,2396489472
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=3371413057&perks=4085959009,147913470
+dimwishlist:item=3371413057&perks=1749209109,147913470
+dimwishlist:item=3371413057&perks=4085959009,3913600130
+dimwishlist:item=3371413057&perks=1749209109,3913600130
+dimwishlist:item=3371413057&perks=4183521337,598607952
+dimwishlist:item=3371413057&perks=2590710093,598607952
+dimwishlist:item=3371413057&perks=4183521337,2396489472
+dimwishlist:item=3371413057&perks=2590710093,2396489472
+dimwishlist:item=3371413057&perks=855168139,598607952
+dimwishlist:item=3371413057&perks=3108830275,598607952
+dimwishlist:item=3371413057&perks=855168139,2396489472
+dimwishlist:item=3371413057&perks=3108830275,2396489472
+dimwishlist:item=3371413057&perks=4183521337,598607952
+dimwishlist:item=3371413057&perks=2590710093,598607952
+dimwishlist:item=3371413057&perks=4183521337,2396489472
+dimwishlist:item=3371413057&perks=2590710093,2396489472
+dimwishlist:item=3371413057&perks=4274613598,598607952
+dimwishlist:item=3371413057&perks=4274614370,598607952
+dimwishlist:item=3371413057&perks=4274613598,2396489472
+dimwishlist:item=3371413057&perks=4274614370,2396489472
+
+
+
+// Name Quickfang N | Impact
+
+// Usage PvE | JaggedEdge HungryEdge EnduringBlade
+// Perks TirelessBlade AssassinsBlade | SwordmastersGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=2782325300&perks=3666208348,269888150,2590710093,354401740
+dimwishlist:item=2782325300&perks=436053704,269888150,2590710093,354401740
+dimwishlist:item=2782325300&perks=1261178282,269888150,2590710093,354401740
+// Perks TirelessBlade OneForAll | SwordmastersGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=2782325300&perks=3666208348,269888150,2590710093,4049631843
+dimwishlist:item=2782325300&perks=436053704,269888150,2590710093,4049631843
+dimwishlist:item=2782325300&perks=1261178282,269888150,2590710093,4049631843
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: JaggedEdge, HungryEdge, EnduringBlade
+dimwishlist:item=2782325300&perks=269888150,2590710093,354401740
+dimwishlist:item=2782325300&perks=269888150,2590710093,4049631843
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade AssassinsBlade | SwordmastersGuard
+//notes:PvP God Roll; Preferred Masterworks: Impact
+dimwishlist:item=-2782325300&perks=3666208348,269888150,2590710093,354401740
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: JaggedEdge
+dimwishlist:item=-2782325300&perks=269888150,2590710093,354401740
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=2782325300&perks=2590710093,354401740
+dimwishlist:item=2782325300&perks=2590710093,4049631843
+dimwishlist:item=2782325300&perks=2590710093,354401740
+
+
+
+// Name DeathsRazor E | Impact
+
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes WhirlwindBlade | InfiniteGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=3371413056&perks=3666208348,2363751990,4085959009,147913470
+dimwishlist:item=3371413056&perks=3666208348,2363751990,1749209109,147913470
+dimwishlist:item=3371413056&perks=3666208348,2363751990,4085959009,3913600130
+dimwishlist:item=3371413056&perks=3666208348,2363751990,1749209109,3913600130
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: JaggedEdge
+dimwishlist:item=3371413056&perks=2363751990,4085959009,147913470
+dimwishlist:item=3371413056&perks=2363751990,1749209109,147913470
+dimwishlist:item=3371413056&perks=2363751990,4085959009,3913600130
+dimwishlist:item=3371413056&perks=2363751990,1749209109,3913600130
+
+// Usage PvE | HungryEdge EnduringBlade
+// Perks TirelessBlade DestabilizingRounds | InfiniteGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=3371413056&perks=436053704,2363751990,4183521337,1926441324
+dimwishlist:item=3371413056&perks=436053704,2363751990,2590710093,1926441324
+dimwishlist:item=3371413056&perks=436053704,2363751990,4183521337,2048641572
+dimwishlist:item=3371413056&perks=436053704,2363751990,2590710093,2048641572
+dimwishlist:item=3371413056&perks=1261178282,2363751990,4183521337,1926441324
+dimwishlist:item=3371413056&perks=1261178282,2363751990,2590710093,1926441324
+dimwishlist:item=3371413056&perks=1261178282,2363751990,4183521337,2048641572
+dimwishlist:item=3371413056&perks=1261178282,2363751990,2590710093,2048641572
+// Perks TirelessBlade Surrounded | InfiniteGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=3371413056&perks=436053704,2363751990,4183521337,781192741
+dimwishlist:item=3371413056&perks=436053704,2363751990,2590710093,781192741
+dimwishlist:item=3371413056&perks=436053704,2363751990,4183521337,3708227201
+dimwishlist:item=3371413056&perks=436053704,2363751990,2590710093,3708227201
+dimwishlist:item=3371413056&perks=1261178282,2363751990,4183521337,781192741
+dimwishlist:item=3371413056&perks=1261178282,2363751990,2590710093,781192741
+dimwishlist:item=3371413056&perks=1261178282,2363751990,4183521337,3708227201
+dimwishlist:item=3371413056&perks=1261178282,2363751990,2590710093,3708227201
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: HungryEdge, EnduringBlade
+dimwishlist:item=3371413056&perks=2363751990,4183521337,1926441324
+dimwishlist:item=3371413056&perks=2363751990,2590710093,1926441324
+dimwishlist:item=3371413056&perks=2363751990,4183521337,2048641572
+dimwishlist:item=3371413056&perks=2363751990,2590710093,2048641572
+dimwishlist:item=3371413056&perks=2363751990,4183521337,781192741
+dimwishlist:item=3371413056&perks=2363751990,2590710093,781192741
+dimwishlist:item=3371413056&perks=2363751990,4183521337,3708227201
+dimwishlist:item=3371413056&perks=2363751990,2590710093,3708227201
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade ValiantCharge | InfiniteGuard
+//notes:PvP God Roll; Preferred Masterworks: Impact
+dimwishlist:item=-3371413056&perks=3666208348,2363751990,4183521337,4274613598
+dimwishlist:item=-3371413056&perks=3666208348,2363751990,2590710093,4274613598
+dimwishlist:item=-3371413056&perks=3666208348,2363751990,4183521337,4274614370
+dimwishlist:item=-3371413056&perks=3666208348,2363751990,2590710093,4274614370
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: JaggedEdge
+dimwishlist:item=-3371413056&perks=2363751990,4183521337,4274613598
+dimwishlist:item=-3371413056&perks=2363751990,2590710093,4274613598
+dimwishlist:item=-3371413056&perks=2363751990,4183521337,4274614370
+dimwishlist:item=-3371413056&perks=2363751990,2590710093,4274614370
+
+// Usage Fun | HungryEdge EnduringBlade
+// Perks Thresh Demolitionist | InfiniteGuard
+//notes:Fun God Roll; Preferred Masterworks: Impact
+dimwishlist:item=3371413056&perks=436053704,2363751990,1172413778,1906147653
+dimwishlist:item=3371413056&perks=436053704,2363751990,2726471870,1906147653
+dimwishlist:item=3371413056&perks=436053704,2363751990,1172413778,3523296417
+dimwishlist:item=3371413056&perks=436053704,2363751990,2726471870,3523296417
+dimwishlist:item=3371413056&perks=1261178282,2363751990,1172413778,1906147653
+dimwishlist:item=3371413056&perks=1261178282,2363751990,2726471870,1906147653
+dimwishlist:item=3371413056&perks=1261178282,2363751990,1172413778,3523296417
+dimwishlist:item=3371413056&perks=1261178282,2363751990,2726471870,3523296417
+// Mags
+//notes:Fun Good Roll; Preferred Barrels: HungryEdge, EnduringBlade
+dimwishlist:item=3371413056&perks=2363751990,1172413778,1906147653
+dimwishlist:item=3371413056&perks=2363751990,2726471870,1906147653
+dimwishlist:item=3371413056&perks=2363751990,1172413778,3523296417
+dimwishlist:item=3371413056&perks=2363751990,2726471870,3523296417
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=3371413056&perks=4085959009,147913470
+dimwishlist:item=3371413056&perks=1749209109,147913470
+dimwishlist:item=3371413056&perks=4085959009,3913600130
+dimwishlist:item=3371413056&perks=1749209109,3913600130
+dimwishlist:item=3371413056&perks=4183521337,1926441324
+dimwishlist:item=3371413056&perks=2590710093,1926441324
+dimwishlist:item=3371413056&perks=4183521337,2048641572
+dimwishlist:item=3371413056&perks=2590710093,2048641572
+dimwishlist:item=3371413056&perks=4183521337,781192741
+dimwishlist:item=3371413056&perks=2590710093,781192741
+dimwishlist:item=3371413056&perks=4183521337,3708227201
+dimwishlist:item=3371413056&perks=2590710093,3708227201
+dimwishlist:item=3371413056&perks=4183521337,4274613598
+dimwishlist:item=3371413056&perks=2590710093,4274613598
+dimwishlist:item=3371413056&perks=4183521337,4274614370
+dimwishlist:item=3371413056&perks=2590710093,4274614370
+dimwishlist:item=3371413056&perks=1172413778,1906147653
+dimwishlist:item=3371413056&perks=2726471870,1906147653
+dimwishlist:item=3371413056&perks=1172413778,3523296417
+dimwishlist:item=3371413056&perks=2726471870,3523296417
+
+
+
+// Name DeathsRazor_Old N | Impact
+
+// Usage PvE | JaggedEdge
+// Perks RelentlessStrikes WhirlwindBlade | InfiniteGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=569799274&perks=3666208348,2363751990,1749209109,3913600130
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: JaggedEdge
+dimwishlist:item=569799274&perks=2363751990,1749209109,3913600130
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade AssassinsBlade | InfiniteGuard
+//notes:PvP God Roll; Preferred Masterworks: Impact
+dimwishlist:item=-569799274&perks=3666208348,2363751990,2590710093,354401740
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: JaggedEdge
+dimwishlist:item=-569799274&perks=2363751990,2590710093,354401740
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=569799274&perks=1749209109,3913600130
+dimwishlist:item=569799274&perks=2590710093,354401740
+
+
+
+// Name EternitysEdge N | Impact
+
+// Usage PvE | HungryEdge EnduringBlade
+// Perks TirelessBlade Surrounded | InfiniteGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=2782325301&perks=436053704,2363751990,2590710093,3708227201
+dimwishlist:item=2782325301&perks=1261178282,2363751990,2590710093,3708227201
+// Perks TirelessBlade AssassinsBlade | InfiniteGuard
+//notes:PvE God Roll; Preferred Masterworks: Impact
+dimwishlist:item=2782325301&perks=436053704,2363751990,2590710093,354401740
+dimwishlist:item=2782325301&perks=1261178282,2363751990,2590710093,354401740
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: HungryEdge, EnduringBlade
+dimwishlist:item=2782325301&perks=2363751990,2590710093,3708227201
+dimwishlist:item=2782325301&perks=2363751990,2590710093,354401740
+
+// Usage PvP | JaggedEdge
+// Perks TirelessBlade AssassinsBlade | InfiniteGuard
+//notes:PvP God Roll; Preferred Masterworks: Impact
+dimwishlist:item=-2782325301&perks=3666208348,2363751990,2590710093,354401740
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: JaggedEdge
+dimwishlist:item=-2782325301&perks=2363751990,2590710093,354401740
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=2782325301&perks=2590710093,3708227201
+dimwishlist:item=2782325301&perks=2590710093,354401740
+dimwishlist:item=2782325301&perks=2590710093,354401740
