@@ -350,3 +350,54 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Mags
 
 // Overall
+
+
+
+// Name BraytechWerewolf_Old N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks FourthTimesTheCharm VorpalWeapon | RicochetRounds HighCaliberRounds
+// Perks FourthTimesTheCharm Swashbuckler | RicochetRounds HighCaliberRounds
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction TapTheTrigger | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name BraytechWerewolf E | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks RewindRounds KineticTremors | RicochetRounds HighCaliberRounds
+// Perks RewindRounds Onslaught | RicochetRounds HighCaliberRounds
+// Perks Subsistence KineticTremors | RicochetRounds HighCaliberRounds
+// Perks Subsistence Onslaught | RicochetRounds HighCaliberRounds
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction KillClip | RicochetRounds HighCaliberRounds
+// Perks DynamicSwayReduction TapTheTrigger | RicochetRounds HighCaliberRounds
+// Perks LoneWolf KillClip | RicochetRounds HighCaliberRounds
+// Perks LoneWolf TapTheTrigger | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name BraytechWerewolf_Mid E | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks Subsistence VorpalWeapon | RicochetRounds HighCaliberRounds
+// Perks Subsistence Swashbuckler | RicochetRounds HighCaliberRounds
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction KillClip | RicochetRounds HighCaliberRounds
+// Perks DynamicSwayReduction TapTheTrigger | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
