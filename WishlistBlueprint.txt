@@ -356,8 +356,8 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Name BraytechWerewolf_Old N | Range Stability
 
 // Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
-// Perks FourthTimesTheCharm VorpalWeapon | RicochetRounds HighCaliberRounds
-// Perks FourthTimesTheCharm Swashbuckler | RicochetRounds HighCaliberRounds
+// Perks FourthTimesTheCharm VorpalWeapon | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Perks FourthTimesTheCharm Swashbuckler | RicochetRounds HighCaliberRounds ArmorPiercingRounds
 // Mags
 
 // Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
@@ -371,10 +371,10 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Name BraytechWerewolf E | Range Stability
 
 // Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
-// Perks RewindRounds KineticTremors | RicochetRounds HighCaliberRounds
-// Perks RewindRounds Onslaught | RicochetRounds HighCaliberRounds
-// Perks Subsistence KineticTremors | RicochetRounds HighCaliberRounds
-// Perks Subsistence Onslaught | RicochetRounds HighCaliberRounds
+// Perks RewindRounds KineticTremors | RicochetRounds HighCaliberRounds ArmorPiercingRounds ExtendedMag
+// Perks RewindRounds Onslaught | RicochetRounds HighCaliberRounds ArmorPiercingRounds ExtendedMag
+// Perks Subsistence KineticTremors | RicochetRounds HighCaliberRounds ArmorPiercingRounds ExtendedMag
+// Perks Subsistence Onslaught | RicochetRounds HighCaliberRounds ArmorPiercingRounds ExtendedMag
 // Mags
 
 // Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
@@ -391,13 +391,70 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Name BraytechWerewolf_Mid E | Range Stability
 
 // Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
-// Perks Subsistence VorpalWeapon | RicochetRounds HighCaliberRounds
-// Perks Subsistence Swashbuckler | RicochetRounds HighCaliberRounds
+// Perks Subsistence VorpalWeapon | RicochetRounds HighCaliberRounds ArmorPiercingRounds ExtendedMag
+// Perks Subsistence Swashbuckler | RicochetRounds HighCaliberRounds ArmorPiercingRounds ExtendedMag
 // Mags
 
 // Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
 // Perks DynamicSwayReduction KillClip | RicochetRounds HighCaliberRounds
 // Perks DynamicSwayReduction TapTheTrigger | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name Breakneck E | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks Subsistence KineticTremors | RicochetRounds HighCaliberRounds ArmorPiercingRounds ExtendedMag
+// Perks FeedingFrenzy KineticTremors | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Perks Subsistence Onslaught | RicochetRounds HighCaliberRounds ArmorPiercingRounds ExtendedMag
+// Perks FeedingFrenzy Onslaught | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction TapTheTrigger | RicochetRounds HighCaliberRounds
+// Perks DynamicSwayReduction MovingTarget | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name ChromaRush E | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks Subsistence KineticTremors | AccurizedRounds ExtendedMag TacticalMag
+// Perks Subsistence Rampage | AccurizedRounds ExtendedMag TacticalMag
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction KillClip | AccurizedRounds
+// Perks DynamicSwayReduction TapTheTrigger | AccurizedRounds
+// Perks TunnelVision KillClip | AccurizedRounds
+// Perks KillingWind KillClip | AccurizedRounds
+// Perks KillingWind TapTheTrigger | AccurizedRounds
+// Mags
+
+// Overall
+
+
+
+// Name ChromaRush N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks Subsistence Rampage | AccurizedRounds ExtendedMag TacticalMag
+// Perks FeedingFrenzy KillClip | AccurizedRounds TacticalMag
+// Perks FeedingFrenzy Rampage | AccurizedRounds TacticalMag
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction KillClip | AccurizedRounds
+// Perks DynamicSwayReduction TapTheTrigger | AccurizedRounds
+// Perks TunnelVision KillClip | AccurizedRounds
+// Perks MovingTarget KillClip | AccurizedRounds
+// Perks MovingTarget TapTheTrigger | AccurizedRounds
 // Mags
 
 // Overall
