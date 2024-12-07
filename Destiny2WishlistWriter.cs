@@ -987,6 +987,10 @@ class Program
             {"LightningSeeker", "844190854"},
             {"RestorativeTurret", "3492337375"},
             {"SilkboundSlayer", "2799667909"},
+            {"Parasitism", "3242533954"},
+            {"RewindRounds_OP", "2578928832"},
+            {"Headseeker_OP", "2578928833"},
+            {"RapidHit_OP", "2578928835"},
 
             // Stock
             {"ShortActionStock", "1067908860"},
@@ -1016,6 +1020,7 @@ class Program
             {"TexturedGrip", "3917450714"},
             {"SmoothGrip", "3326204863"},
             {"PolymerGrip", "862848869"},
+            {"CombatGrip", "3438534621"},
 
             // Haft
             {"BallisticTuning", "1263609309"},
@@ -1032,6 +1037,12 @@ class Program
             {"ExtendedMag", "2420895100"},
             {"SwapMag", "3721627275"},
             {"AppendedMag", "1087426260"},
+            {"TacticalMag", "106909392"},
+            {"FlaredMagwell", "3230963543"},
+            {"SteadyRounds", "3177308360"},
+            {"RicochetRounds", "1885400500"},
+            {"ArmorPiercingRounds", "1968497646"},
+            {"HighCaliberRounds", "1561002382"},
 
             // Guard
             {"HeavyGuard", "2349202967"},
@@ -1043,6 +1054,17 @@ class Program
             {"EnduringBlade", "1261178282"},
             {"TemperedEdge", "938542991"},
 
+            // Barrel
+            {"FullBore", "202670084"},
+            {"HammerForgedRifling", "3250034553"},
+            {"CorkscrewRifling", "4090651448"},
+            {"ExtendedBarrel", "1467527085"},
+            {"FlutedBarrel", "1840239774"},
+            {"SmallBore", "1482024992"},
+            {"ChamberedCompensator", "3661387068"},
+            {"ArrowheadBrake", "839105230"},
+            {"PolygonalRifling", "1392496348"},
+
             // Perks
             {"VorpalWeapon", "1546637391"},
             {"WhirlwindBlade", "3913600130"},
@@ -1052,6 +1074,23 @@ class Program
             {"TirelessBlade", "2590710093"},
             {"Thresh", "2726471870"},
             {"FlashCounter", "2244851822"},
+            {"Rangefinder", "2846385770"},
+            {"EyeOfTheStorm", "699525795"},
+            {"OpeningShot", "47981717"},
+            {"Quickdraw", "706527188"},
+            {"MovingTarget", "588594999"},
+            {"SnapshotSights", "957782887"},
+            {"KillingWind", "2450788523"},
+            {"Surplus", "3436462433"},
+            {"HipFireGrip", "1866048759"},
+            {"Outlaw", "1168162263"},
+            {"ElementalCapacitor", "3511092054"},
+            {"PerpetualMotion", "1428297954"},
+            {"Slickdraw", "1821614984"},
+            {"FourthTimesTheCharm", "1354429876"},
+            {"CompulsiveReloader", "671806388"},
+            {"ShootToLoot", "3700496672"},
+            {"RapidHit", "247725512"},
         };
 
         Dictionary<string, string> enhancedPerkIds = new Dictionary<string, string> {

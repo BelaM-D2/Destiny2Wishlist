@@ -1,5 +1,5 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 5 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 9 / 917)
 
 
 
@@ -61,15 +61,73 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 
 
 
+// Name Hawkmoon N | 
+
+// Usage PvP | FullBore HammerForgedRifling
+// Perks Rangefinder HeavyGrip | AlloyMagazine
+// Perks Rangefinder SmoothGrip | AlloyMagazine
+// Perks EyeOfTheStorm HeavyGrip | AlloyMagazine
+// Perks EyeOfTheStorm SmoothGrip | AlloyMagazine
+// Perks KillingWind HeavyGrip | AlloyMagazine
+// Perks KillingWind SmoothGrip | AlloyMagazine
+// Mags
+
+// Overall
+
+
+
+// Name OutbreakPerfected N | 
+
+// Usage PvE | ExtendedBarrel SmallBore
+// Perks RewindRounds_OP Parasitism | ExtendedMag
+// Mags
+
+// Usage PvP | ExtendedBarrel SmallBore HammerForgedRifling
+// Perks Headseeker_OP Parasitism | AccurizedRounds
+// Mags
+
+// Overall
+
+
+
+// Name RevisionZero N | 
+
+// Usage PvE | CorkscrewRifling ArrowheadBrake SmallBore
+// Perks VorpalWeapon FittedStock | RicochetRounds
+// Mags
+
+// Usage PvP | CorkscrewRifling ArrowheadBrake SmallBore
+// Perks MovingTarget FittedStock | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name DeadMansTale N | 
+
+// Usage PvE | CorkscrewRifling SmallBore
+// Perks RapidHit FittedStock | RicochetRounds
+// Perks VorpalWeapon FittedStock | RicochetRounds
+// Perks Outlaw FittedStock | RicochetRounds
+// Mags
+
+// Usage PvP | CorkscrewRifling SmallBore FlutedBarrel
+// Perks MovingTarget FittedStock | RicochetRounds AccurizedRounds
+// Perks VorpalWeapon FittedStock | RicochetRounds AccurizedRounds
+// Perks MovingTarget HandLaidStock | RicochetRounds AccurizedRounds
+// Perks VorpalWeapon HandLaidStock | RicochetRounds AccurizedRounds
+// Mags
+
+// Overall
+
+
+
 // Name CrownSplitter N | Impact
 
 // Usage PvE | JaggedEdge
 // Perks RelentlessStrikes VorpalWeapon | HeavyGuard
 // Perks RelentlessStrikes WhirlwindBlade | HeavyGuard
-// Mags
-
-// Usage PvP | JaggedEdge TemperedEdge HonedEdge
-// Perks TirelessBlade VorpalWeapon | HeavyGuard
 // Mags
 
 // Overall

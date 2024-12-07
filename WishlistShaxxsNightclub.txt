@@ -1,5 +1,5 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 5 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 9 / 917)
 
 
 
@@ -168,6 +168,191 @@ dimwishlist:item=2910326942&perks=2799667909,3326204863
 
 
 
+// Name Hawkmoon N | 
+
+// Usage PvP | FullBore HammerForgedRifling
+// Perks Rangefinder HeavyGrip | AlloyMagazine
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-3856705927&perks=202670084,1431678320,2846385770,1012699414
+dimwishlist:item=-3856705927&perks=3250034553,1431678320,2846385770,1012699414
+// Perks Rangefinder SmoothGrip | AlloyMagazine
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-3856705927&perks=202670084,1431678320,2846385770,3326204863
+dimwishlist:item=-3856705927&perks=3250034553,1431678320,2846385770,3326204863
+// Perks EyeOfTheStorm HeavyGrip | AlloyMagazine
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-3856705927&perks=202670084,1431678320,699525795,1012699414
+dimwishlist:item=-3856705927&perks=3250034553,1431678320,699525795,1012699414
+// Perks EyeOfTheStorm SmoothGrip | AlloyMagazine
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-3856705927&perks=202670084,1431678320,699525795,3326204863
+dimwishlist:item=-3856705927&perks=3250034553,1431678320,699525795,3326204863
+// Perks KillingWind HeavyGrip | AlloyMagazine
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-3856705927&perks=202670084,1431678320,2450788523,1012699414
+dimwishlist:item=-3856705927&perks=3250034553,1431678320,2450788523,1012699414
+// Perks KillingWind SmoothGrip | AlloyMagazine
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-3856705927&perks=202670084,1431678320,2450788523,3326204863
+dimwishlist:item=-3856705927&perks=3250034553,1431678320,2450788523,3326204863
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: FullBore, HammerForgedRifling
+dimwishlist:item=-3856705927&perks=1431678320,2846385770,1012699414
+dimwishlist:item=-3856705927&perks=1431678320,2846385770,3326204863
+dimwishlist:item=-3856705927&perks=1431678320,699525795,1012699414
+dimwishlist:item=-3856705927&perks=1431678320,699525795,3326204863
+dimwishlist:item=-3856705927&perks=1431678320,2450788523,1012699414
+dimwishlist:item=-3856705927&perks=1431678320,2450788523,3326204863
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=3856705927&perks=2846385770,1012699414
+dimwishlist:item=3856705927&perks=2846385770,3326204863
+dimwishlist:item=3856705927&perks=699525795,1012699414
+dimwishlist:item=3856705927&perks=699525795,3326204863
+dimwishlist:item=3856705927&perks=2450788523,1012699414
+dimwishlist:item=3856705927&perks=2450788523,3326204863
+
+
+
+// Name OutbreakPerfected N | 
+
+// Usage PvE | ExtendedBarrel SmallBore
+// Perks RewindRounds_OP Parasitism | ExtendedMag
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=3824673936&perks=1467527085,2420895100,2578928832,3242533954
+dimwishlist:item=3824673936&perks=1482024992,2420895100,2578928832,3242533954
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: ExtendedBarrel, SmallBore
+dimwishlist:item=3824673936&perks=2420895100,2578928832,3242533954
+
+// Usage PvP | ExtendedBarrel SmallBore HammerForgedRifling
+// Perks Headseeker_OP Parasitism | AccurizedRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-3824673936&perks=1467527085,3142289711,2578928833,3242533954
+dimwishlist:item=-3824673936&perks=1482024992,3142289711,2578928833,3242533954
+dimwishlist:item=-3824673936&perks=3250034553,3142289711,2578928833,3242533954
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: ExtendedBarrel, SmallBore, HammerForgedRifling
+dimwishlist:item=-3824673936&perks=3142289711,2578928833,3242533954
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=3824673936&perks=2578928832,3242533954
+dimwishlist:item=3824673936&perks=2578928833,3242533954
+
+
+
+// Name RevisionZero N | 
+
+// Usage PvE | CorkscrewRifling ArrowheadBrake SmallBore
+// Perks VorpalWeapon FittedStock | RicochetRounds
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=1473821207&perks=4090651448,1885400500,1546637391,4259401308
+dimwishlist:item=1473821207&perks=839105230,1885400500,1546637391,4259401308
+dimwishlist:item=1473821207&perks=1482024992,1885400500,1546637391,4259401308
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: CorkscrewRifling, ArrowheadBrake, SmallBore
+dimwishlist:item=1473821207&perks=1885400500,1546637391,4259401308
+
+// Usage PvP | CorkscrewRifling ArrowheadBrake SmallBore
+// Perks MovingTarget FittedStock | RicochetRounds HighCaliberRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-1473821207&perks=4090651448,1885400500,588594999,4259401308
+dimwishlist:item=-1473821207&perks=4090651448,1561002382,588594999,4259401308
+dimwishlist:item=-1473821207&perks=839105230,1885400500,588594999,4259401308
+dimwishlist:item=-1473821207&perks=839105230,1561002382,588594999,4259401308
+dimwishlist:item=-1473821207&perks=1482024992,1885400500,588594999,4259401308
+dimwishlist:item=-1473821207&perks=1482024992,1561002382,588594999,4259401308
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: CorkscrewRifling, ArrowheadBrake, SmallBore
+dimwishlist:item=-1473821207&perks=1885400500,588594999,4259401308
+dimwishlist:item=-1473821207&perks=1561002382,588594999,4259401308
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=1473821207&perks=1546637391,4259401308
+dimwishlist:item=1473821207&perks=588594999,4259401308
+
+
+
+// Name DeadMansTale N | 
+
+// Usage PvE | CorkscrewRifling SmallBore
+// Perks RapidHit FittedStock | RicochetRounds
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=2188764214&perks=4090651448,1885400500,247725512,4259401308
+dimwishlist:item=2188764214&perks=1482024992,1885400500,247725512,4259401308
+// Perks VorpalWeapon FittedStock | RicochetRounds
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=2188764214&perks=4090651448,1885400500,1546637391,4259401308
+dimwishlist:item=2188764214&perks=1482024992,1885400500,1546637391,4259401308
+// Perks Outlaw FittedStock | RicochetRounds
+//notes:PvE God Roll; Preferred Masterworks: 
+dimwishlist:item=2188764214&perks=4090651448,1885400500,1168162263,4259401308
+dimwishlist:item=2188764214&perks=1482024992,1885400500,1168162263,4259401308
+// Mags
+//notes:PvE Good Roll; Preferred Barrels: CorkscrewRifling, SmallBore
+dimwishlist:item=2188764214&perks=1885400500,247725512,4259401308
+dimwishlist:item=2188764214&perks=1885400500,1546637391,4259401308
+dimwishlist:item=2188764214&perks=1885400500,1168162263,4259401308
+
+// Usage PvP | CorkscrewRifling SmallBore FlutedBarrel
+// Perks MovingTarget FittedStock | RicochetRounds AccurizedRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-2188764214&perks=4090651448,1885400500,588594999,4259401308
+dimwishlist:item=-2188764214&perks=4090651448,3142289711,588594999,4259401308
+dimwishlist:item=-2188764214&perks=1482024992,1885400500,588594999,4259401308
+dimwishlist:item=-2188764214&perks=1482024992,3142289711,588594999,4259401308
+dimwishlist:item=-2188764214&perks=1840239774,1885400500,588594999,4259401308
+dimwishlist:item=-2188764214&perks=1840239774,3142289711,588594999,4259401308
+// Perks VorpalWeapon FittedStock | RicochetRounds AccurizedRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-2188764214&perks=4090651448,1885400500,1546637391,4259401308
+dimwishlist:item=-2188764214&perks=4090651448,3142289711,1546637391,4259401308
+dimwishlist:item=-2188764214&perks=1482024992,1885400500,1546637391,4259401308
+dimwishlist:item=-2188764214&perks=1482024992,3142289711,1546637391,4259401308
+dimwishlist:item=-2188764214&perks=1840239774,1885400500,1546637391,4259401308
+dimwishlist:item=-2188764214&perks=1840239774,3142289711,1546637391,4259401308
+// Perks MovingTarget HandLaidStock | RicochetRounds AccurizedRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-2188764214&perks=4090651448,1885400500,588594999,990298390
+dimwishlist:item=-2188764214&perks=4090651448,3142289711,588594999,990298390
+dimwishlist:item=-2188764214&perks=1482024992,1885400500,588594999,990298390
+dimwishlist:item=-2188764214&perks=1482024992,3142289711,588594999,990298390
+dimwishlist:item=-2188764214&perks=1840239774,1885400500,588594999,990298390
+dimwishlist:item=-2188764214&perks=1840239774,3142289711,588594999,990298390
+// Perks VorpalWeapon HandLaidStock | RicochetRounds AccurizedRounds
+//notes:PvP God Roll; Preferred Masterworks: 
+dimwishlist:item=-2188764214&perks=4090651448,1885400500,1546637391,990298390
+dimwishlist:item=-2188764214&perks=4090651448,3142289711,1546637391,990298390
+dimwishlist:item=-2188764214&perks=1482024992,1885400500,1546637391,990298390
+dimwishlist:item=-2188764214&perks=1482024992,3142289711,1546637391,990298390
+dimwishlist:item=-2188764214&perks=1840239774,1885400500,1546637391,990298390
+dimwishlist:item=-2188764214&perks=1840239774,3142289711,1546637391,990298390
+// Mags
+//notes:PvP Good Roll; Preferred Barrels: CorkscrewRifling, SmallBore, FlutedBarrel
+dimwishlist:item=-2188764214&perks=1885400500,588594999,4259401308
+dimwishlist:item=-2188764214&perks=3142289711,588594999,4259401308
+dimwishlist:item=-2188764214&perks=1885400500,1546637391,4259401308
+dimwishlist:item=-2188764214&perks=3142289711,1546637391,4259401308
+dimwishlist:item=-2188764214&perks=1885400500,588594999,990298390
+dimwishlist:item=-2188764214&perks=3142289711,588594999,990298390
+dimwishlist:item=-2188764214&perks=1885400500,1546637391,990298390
+dimwishlist:item=-2188764214&perks=3142289711,1546637391,990298390
+
+// Overall
+//notes: Okay Roll
+dimwishlist:item=2188764214&perks=247725512,4259401308
+dimwishlist:item=2188764214&perks=1546637391,4259401308
+dimwishlist:item=2188764214&perks=1168162263,4259401308
+dimwishlist:item=2188764214&perks=588594999,4259401308
+dimwishlist:item=2188764214&perks=1546637391,4259401308
+dimwishlist:item=2188764214&perks=588594999,990298390
+dimwishlist:item=2188764214&perks=1546637391,990298390
+
+
+
 // Name CrownSplitter N | Impact
 
 // Usage PvE | JaggedEdge
@@ -182,18 +367,7 @@ dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130
 dimwishlist:item=2782325302&perks=2349202967,1749209109,1546637391
 dimwishlist:item=2782325302&perks=2349202967,1749209109,3913600130
 
-// Usage PvP | JaggedEdge TemperedEdge HonedEdge
-// Perks TirelessBlade VorpalWeapon | HeavyGuard
-//notes:PvP God Roll; Preferred Masterworks: Impact
-dimwishlist:item=-2782325302&perks=3666208348,2349202967,2590710093,1546637391
-dimwishlist:item=-2782325302&perks=938542991,2349202967,2590710093,1546637391
-dimwishlist:item=-2782325302&perks=2827049491,2349202967,2590710093,1546637391
-// Mags
-//notes:PvP Good Roll; Preferred Barrels: JaggedEdge, TemperedEdge, HonedEdge
-dimwishlist:item=-2782325302&perks=2349202967,2590710093,1546637391
-
 // Overall
 //notes: Okay Roll
 dimwishlist:item=2782325302&perks=1749209109,1546637391
 dimwishlist:item=2782325302&perks=1749209109,3913600130
-dimwishlist:item=2782325302&perks=2590710093,1546637391
