@@ -1091,6 +1091,7 @@ class Program
             {"CompulsiveReloader", "671806388"},
             {"ShootToLoot", "3700496672"},
             {"RapidHit", "247725512"},
+            {"Subsistence", "1820235745"},
         };
 
         Dictionary<string, string> enhancedPerkIds = new Dictionary<string, string> {

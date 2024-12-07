@@ -1,5 +1,5 @@
 title: PvE/PvP Wishlist, Version: 3.0.0 (Complete Rework; All Random Roll Weapons), Last Updated: 06.12.2024 (Episode: Revenant)
-description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 9 / 917)
+description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Nightclub) (Weapons Included: 10 / 917)
 
 
 
@@ -109,6 +109,25 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Usage PvE | CorkscrewRifling SmallBore
 // Perks RapidHit FittedStock | RicochetRounds
 // Perks VorpalWeapon FittedStock | RicochetRounds
+// Perks Outlaw FittedStock | RicochetRounds
+// Mags
+
+// Usage PvP | CorkscrewRifling SmallBore FlutedBarrel
+// Perks MovingTarget FittedStock | RicochetRounds AccurizedRounds
+// Perks VorpalWeapon FittedStock | RicochetRounds AccurizedRounds
+// Perks MovingTarget HandLaidStock | RicochetRounds AccurizedRounds
+// Perks VorpalWeapon HandLaidStock | RicochetRounds AccurizedRounds
+// Mags
+
+// Overall
+
+
+
+// Name DeadMansTale_Old N | 
+
+// Usage PvE | CorkscrewRifling SmallBore
+// Perks VorpalWeapon FittedStock | RicochetRounds
+// Perks Subsistence FittedStock | RicochetRounds
 // Perks Outlaw FittedStock | RicochetRounds
 // Mags
 
