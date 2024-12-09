@@ -479,3 +479,147 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Mags
 
 // Overall
+
+
+
+// Name DutyBound(Adept) N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks TripleTap OneForAll | AccurizedRounds TacticalMag
+// Perks TripleTap Rampage | AccurizedRounds TacticalMag
+// Perks TripleTap Frenzy | AccurizedRounds TacticalMag
+// Perks TripleTap VorpalWeapon | AccurizedRounds TacticalMag
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks PerpetualMotion DynamicSwayReduction | AccurizedRounds
+// Mags
+
+// Usage Fun | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks TripleTap FourthTimesTheCharm | AccurizedRounds TacticalMag
+// Mags
+
+// Overall
+
+
+
+// Name EtherDoctor N | Range Stability
+
+// Usage PvP | DuskScopeD2 DevilScopeD2
+// Perks DynamicSwayReduction MovingTarget | RicochetRounds HighCaliberRounds
+// Perks TapTheTrigger MovingTarget | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name FalsePromises N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks Overflow Rampage | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Perks Subsistence Rampage | RicochetRounds ExtendedMag HighCaliberRounds ArmorPiercingRounds
+// Perks FeedingFrenzy Rampage | RicochetRounds ExtendedMag HighCaliberRounds ArmorPiercingRounds
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction ZenMoment | RicochetRounds HighCaliberRounds
+// Perks KillingWind ZenMoment | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name Firefright N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks ThreatDetector Surrounded | RicochetRounds ArmorPiercingRounds HighCaliberRounds
+// Perks FourthTimesTheCharm FocusedFury | RicochetRounds ArmorPiercingRounds HighCaliberRounds
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks FragileFocus Adagio | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name GahlransRightHand N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks Outlaw MultikillClip | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction Rangefinder | RicochetRounds HighCaliberRounds
+// Perks TapTheTrigger Rangefinder | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name HalfdanD N | Range Stability
+
+// Usage PvE | LDWatchdog
+// Perks Outlaw KillClip | AccurizedRounds DropMag TacticalMag
+// Perks Outlaw Rampage | AccurizedRounds DropMag TacticalMag
+// Mags
+
+// Usage PvP | LCRanged SCHolo LDWatchdog
+// Perks DynamicSwayReduction KillClip | AccurizedRounds
+// Perks DynamicSwayReduction Rangefinder | AccurizedRounds
+// Perks TapTheTrigger KillClip | AccurizedRounds
+// Perks TapTheTrigger Rangefinder | AccurizedRounds
+// Mags
+
+// Overall
+
+
+
+// Name HazardOfTheCast N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks TripleTap Rampage | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Perks AmbitiousAssassine KillClip | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks ZenMoment KillClip | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name HerodC N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks Subsistence Headstone | RicochetRounds ExtendedMag HighCaliberRounds ArmorPiercingRounds
+// Perks Subsistence Frenzy | RicochetRounds ExtendedMag HighCaliberRounds ArmorPiercingRounds
+// Perks FourthTimesTheCharm Headstone | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Perks FourthTimesTheCharm Frenzy | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction MovingTarget | RicochetRounds HighCaliberRounds
+// Perks DynamicSwayReduction TapTheTrigger | RicochetRounds HighCaliberRounds
+// Mags
+
+// Overall
+
+
+
+// Name HorrorStory N | Range Stability
+
+// Usage PvE | RedDotMicro
+// Perks Subsistence Demolitionist | AccurizedRounds TacticalMag
+// Mags
+
+// Usage PvP | RifleScopeST
+// Perks KillingWind MovingTarget | AccurizedRounds
+// Mags
+
+// Overall
