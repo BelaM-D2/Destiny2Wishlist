@@ -441,7 +441,7 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 
 
 
-// Name ChromaRush N | Range Stability
+// Name ChromaRush_Old N | Range Stability
 
 // Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
 // Perks Subsistence Rampage | AccurizedRounds ExtendedMag TacticalMag
