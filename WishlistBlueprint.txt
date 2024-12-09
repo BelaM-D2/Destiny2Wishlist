@@ -458,3 +458,24 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 // Mags
 
 // Overall
+
+
+
+// Name DutyBound N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks TripleTap OneForAll | AccurizedRounds TacticalMag
+// Perks TripleTap Rampage | AccurizedRounds TacticalMag
+// Perks TripleTap Frenzy | AccurizedRounds TacticalMag
+// Perks TripleTap VorpalWeapon | AccurizedRounds TacticalMag
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks PerpetualMotion DynamicSwayReduction | AccurizedRounds
+// Mags
+
+// Usage Fun | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks TripleTap FourthTimesTheCharm | AccurizedRounds TacticalMag
+// Mags
+
+// Overall

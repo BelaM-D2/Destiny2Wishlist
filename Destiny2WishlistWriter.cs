@@ -1160,10 +1160,16 @@ class Program
             {"Frenzy", "4104185692"},
             {"TunnelVision", "2946784966"},
             {"ToThePain", "3938834702"},
+            {"TripleTap", "3400784728"},
+            {"StatsForAll", "1583705720"},
+            {"SteadyHands", "509074078"},
         };
 
         Dictionary<string, string> enhancedPerkIds = new Dictionary<string, string> {
             {"Surrounded", "781192741"},
+            {"StatsForAll", "1409206216"},
+            {"SteadyHands", "843318450"},
+            {"TripleTap", "573122728"},
             {"ToThePain", "3416609154"},
             {"Rampage", "288411554"},
             {"TunnelVision", "987673306"},
