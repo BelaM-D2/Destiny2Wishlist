@@ -6,18 +6,17 @@ using System.Collections.Generic;
 using System.Linq;
 using Newtonsoft.Json.Linq;
 
-class BungieWeaponsFetcher
+class WeaponFetcher
 {
     private const string ApiKey = "YOUR-API-KEY-HERE";
     private const string BaseUrl = "https://www.bungie.net";
 
-    public static async Task<List<Weapon>> FetchWeapons()
+    public async Task<List<Weapon>> FetchWeapons()
     {
-        var fetcher = new BungieWeaponsFetcher();
-        return await fetcher.GetWeaponDataAsync();
+        return await GetWeaponDataAsync();
     }
 
-    public async Task<List<Weapon>> GetWeaponDataAsync()
+    private async Task<List<Weapon>> GetWeaponDataAsync()
     {
         // Step 1: Fetch the manifest
         var manifestUrl = await GetManifestUrlAsync();
@@ -36,7 +35,7 @@ class BungieWeaponsFetcher
         return weaponData ?? new List<Weapon>();
     }
 
-    public async Task<string?> GetManifestUrlAsync()
+    private async Task<string?> GetManifestUrlAsync()
     {
         using var client = new HttpClient();
         client.DefaultRequestHeaders.Add("X-API-Key", ApiKey);
@@ -63,7 +62,7 @@ class BungieWeaponsFetcher
         return $"{BaseUrl}{path}";
     }
 
-    public async Task<List<Weapon>> ParseWeaponDataAsync(string manifestUrl)
+    private async Task<List<Weapon>> ParseWeaponDataAsync(string manifestUrl)
     {
         using var client = new HttpClient();
         var response = await client.GetAsync(manifestUrl);

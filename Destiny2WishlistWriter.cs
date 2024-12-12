@@ -7,9 +7,9 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var weapons = await BungieWeaponsFetcher.FetchWeapons();
-
-        Console.WriteLine("Amount of weapons: " + weapons.Count);
+        var fetcher = new WeaponFetcher();
+        var weapons = await fetcher.FetchWeapons();
+        Console.WriteLine("Weapon amount: " + weapons.Count);
 
         string inputFile = "WishlistBlueprint.txt";
         string outputFile = "WishlistShaxxsNightclub.txt";
