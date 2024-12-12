@@ -5,8 +5,12 @@ using System.Linq;
 
 class Program
 {
-    static void Main(string[] args)
+    static async Task Main(string[] args)
     {
+        var weapons = await BungieWeaponsFetcher.FetchWeapons();
+
+        Console.WriteLine("Amount of weapons: " + weapons.Count);
+
         string inputFile = "WishlistBlueprint.txt";
         string outputFile = "WishlistShaxxsNightclub.txt";
 

@@ -531,7 +531,7 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 
 
 
-// Name Firefright N | Range Stability
+// Name Firefright E | Range Stability
 
 // Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
 // Perks ThreatDetector Surrounded | RicochetRounds ArmorPiercingRounds HighCaliberRounds
@@ -612,7 +612,7 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 
 
 
-// Name HorrorStory N | Range Stability
+// Name HorrorStory_Old N | Range Stability
 
 // Usage PvE | RedDotMicro
 // Perks Subsistence Demolitionist | AccurizedRounds TacticalMag
@@ -620,6 +620,34 @@ description: By BelaM (Special Thanks To: PunchedYou, Scythe, Clan: Shaxxs Night
 
 // Usage PvP | RifleScopeST
 // Perks KillingWind MovingTarget | AccurizedRounds
+// Mags
+
+// Overall
+
+
+
+// Name HorrorStory N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks Demolitionist Headstone | AccurizedRounds TacticalMag
+// Perks Demolitionist Frenzy | AccurizedRounds TacticalMag
+// Mags
+
+// Usage PvP | SmallBore ExtendedBarrel HammerForgedRifling
+// Perks DynamicSwayReduction TargetLock | AccurizedRounds
+// Mags
+
+// Overall
+
+
+
+// Name Krait N | Range Stability
+
+// Usage PvE | ArrowheadBrake SmallBore ExtendedBarrel CorkscrewRifling
+// Perks Subsistence Headstone | RicochetRounds ExtendedMag HighCaliberRounds ArmorPiercingRounds
+// Perks Subsistence OneForAll | RicochetRounds ExtendedMag HighCaliberRounds ArmorPiercingRounds
+// Perks Overflow Headstone | RicochetRounds HighCaliberRounds ArmorPiercingRounds
+// Perks Overflow OneForAll | RicochetRounds HighCaliberRounds ArmorPiercingRounds
 // Mags
 
 // Overall
